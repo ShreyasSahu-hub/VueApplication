@@ -1,0 +1,10 @@
+body{
+   width: 100%;
+   padding: 5em;
+   background-color: #E71616;
+   background-image: linear-gradient(to bottom right, red, orange);
+}
+
+label{
+   color: black;
+}

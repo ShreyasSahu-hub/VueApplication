@@ -1,0 +1,20 @@
+body{
+   width: 100%;
+   padding: 5em;
+   border: 10px solid #2c5732;
+   border-radius: 3px;
+   background-color: #359441;
+   background-image: linear-gradient(to bottom right, green, yellow);
+}
+
+label{
+   color: black;
+}
+
+#Message{
+   width: 100%;
+   padding: 1em;
+   border: 10px solid #213d25;
+   border-radius: 3px;
+   background-color: #389c45;
+}
