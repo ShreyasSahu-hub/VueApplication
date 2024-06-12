@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faafb074-979c-42ec-af50-4dafb517f726" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MasterProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MasterProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protocolApplication/frontend/src/components/RetrieveCalorieHistory.vue" beforeDir="false" afterPath="$PROJECT_DIR$/protocolApplication/frontend/src/components/RetrieveCalorieHistory.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protocolApplication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/protocolApplication/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protocolApplication/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/protocolApplication/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterProject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/MasterProject/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
